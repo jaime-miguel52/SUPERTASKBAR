@@ -1,6 +1,11 @@
 # SUPERTASKBAR
 Windows like Super taskbar for macos with many cool features inspired by Windows 
 
+THE TASKBAR IS NOT READY YET , I AM STILL WORKING ON IT
+
+
+
+
 Combined window buttons\
 <img width="646" height="58" alt="Captura de pantalla 2026-10-15 a las 21 15 11" src="https://github.com/user-attachments/assets/499c67f0-9d71-4e1e-b76f-5ffc1c5ad6f0" />
 
