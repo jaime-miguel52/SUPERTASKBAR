@@ -3,7 +3,11 @@ Windows like Super taskbar for macos with many cool features inspired by Windows
 
 THE TASKBAR IS NOT READY YET , I AM STILL WORKING ON IT
 
+WORKING ON ENGLISH VERSION
 
+SOME PLUGINS DO NOT WORK LIKE THE PLAY BUTTON PLUGIN
+
+I AM JUST UPLOADING THE PROGRESS HERE 
 
 
 Combined window buttons\
