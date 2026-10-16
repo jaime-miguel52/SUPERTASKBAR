@@ -7,14 +7,19 @@ Languages
 🇪🇸🇺🇸
 
 Current Features
+
 ✅Thumbnail support on hover
 
 ✅Aeropeak
 
 ✅Aerosnap
+
 ✅Jumplist support
+
 ✅Pin any kind of item to the taskbar (apps, files, folders, internet shorcuts , system settings ...)
+
 ✅Fixing macos features (clicking green button maximizes your window, clicking red button closes the app 
+
 
 I AM JUST UPLOADING THE PROGRESS HERE 
 
