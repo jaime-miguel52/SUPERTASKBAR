@@ -3,9 +3,16 @@ Windows like Super taskbar for macos with many cool features inspired by Windows
 
 THE TASKBAR IS NOT READY YET , I AM STILL WORKING ON IT
 
-WORKING ON ENGLISH VERSION
+Languages
+🇪🇸🇺🇸
 
-SOME PLUGINS DO NOT WORK LIKE THE PLAY BUTTON PLUGIN
+Current Features
+✅Thumbnail support on hover
+✅Aeropeak
+✅Aerosnap
+✅Jumplist support
+✅Pin any kind of item to the taskbar (apps, files, folders, internet shorcuts , system settings ...)
+✅Fixing macos features (clicking green button maximizes your window, clicking red button closes the app 
 
 I AM JUST UPLOADING THE PROGRESS HERE 
 
@@ -27,6 +34,11 @@ Dock like view\
 
 <img width="746" height="65" alt="imagen" src="https://github.com/user-attachments/assets/c74c9cae-8087-4064-9b73-28a5ab446286" />
 \
+
+Transparent dock 
+
+<img width="1016" height="136" alt="imagen" src="https://github.com/user-attachments/assets/3f9cac06-0a83-4096-b390-59f4ee86a152" />
+
 
 Thumbnail support
 
