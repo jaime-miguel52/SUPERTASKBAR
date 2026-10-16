@@ -8,7 +8,9 @@ Languages
 
 Current Features
 ✅Thumbnail support on hover
+
 ✅Aeropeak
+
 ✅Aerosnap
 ✅Jumplist support
 ✅Pin any kind of item to the taskbar (apps, files, folders, internet shorcuts , system settings ...)
