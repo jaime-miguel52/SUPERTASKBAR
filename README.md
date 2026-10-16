@@ -26,13 +26,13 @@ Dock like view\
 
 
 <img width="746" height="65" alt="imagen" src="https://github.com/user-attachments/assets/c74c9cae-8087-4064-9b73-28a5ab446286" />
-
+\
 
 Thumbnail support
 
 <img width="1418" height="608" alt="imagen" src="https://github.com/user-attachments/assets/b685c040-e978-4baa-8085-097f34251e17" />
 
-
+\
 
 
 Jumplist support
