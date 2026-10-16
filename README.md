@@ -38,6 +38,7 @@ Thumbnail support
 Jumplist support
 
 <img width="284" height="630" alt="imagen" src="https://github.com/user-attachments/assets/0e37dfdc-4872-458b-b64b-64933a17af94" />
+\
 Customizable Windows 11 like start menu 
 
 <img width="572" height="609" alt="imagen" src="https://github.com/user-attachments/assets/030d10b3-9b0c-4781-8463-2188856a0237" />
